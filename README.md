@@ -3,7 +3,6 @@
 # 🎓 Student Admission Tracker - Power BI Dashboard
 
 ![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Overview
