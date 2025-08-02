@@ -58,7 +58,9 @@ It enables institutions to gain actionable insights into application trends, gen
 
 **Shashank Kota**
 
-> Feel free to fork, use, or modify this project for academic, demo, or portfolio purposes.
+> Feel free to fork, use, or modify this project for academic, demo, or portfolio purposes.Here is the image of the dashboard 
+<img width="1336" height="749" alt="image" src="https://github.com/user-attachments/assets/81ac3375-03df-4b66-b1cd-4b58da828908" />
+
 
 ---
 
