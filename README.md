@@ -45,7 +45,7 @@ It enables institutions to gain actionable insights into application trends, gen
 
 2. **Open the Dashboard**:
 
-   * Open `Student_Admission_Tracker.pbix` with Power BI Desktop.
+   * Open `Admission_Tracker.pbix` with Power BI Desktop.
 
 3. **Customize (Optional)**:
 
